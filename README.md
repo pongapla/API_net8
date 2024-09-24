@@ -12,3 +12,7 @@
  2. IIS (Internet Information Services) run ที่ IIS
 
 ติดตั้งฐานข้อมูล SQLSERVER 
+  สร้าง ตาราง User
+   id 
+   userName
+   password
